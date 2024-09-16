@@ -5,6 +5,7 @@ permalink: /posts/2023/08/dark-channel-prior-presentation/
 tags:
   - image deblurring
   - statistical algorithms
+  - computer vision
 ---
 
 Presentation on the paper from Jinshan Pan <i> et al. </i> that I did at Cognitive Agents and Interaction Lab, University of Dhaka.
