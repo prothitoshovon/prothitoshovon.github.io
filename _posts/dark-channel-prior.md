@@ -1,7 +1,7 @@
 ---
 title: 'Presentation on Blind Image Deblurring With Dark Channel Prior'
 date: 2023-08-14
-permalink: /posts/2023/08/blog-post-1/
+permalink: /posts/2023/08/dark-channel-prior-presentation/
 tags:
   - image deblurring
   - statistical algorithms
@@ -9,9 +9,9 @@ tags:
 
 Presentation on the paper from Jinshan Pan <i> et al. </i> that I did at Cognitive Agents and Interaction Lab, University of Dhaka.
 
-[Link to the paper] (https://faculty.ucmerced.edu/mhyang/papers/cvpr16_dark_channel_deblurring.pdf)
+[Link to the paper](https://faculty.ucmerced.edu/mhyang/papers/cvpr16_dark_channel_deblurring.pdf)
 
-[Link to the slides] (https://docs.google.com/presentation/d/1uadweqIF_LBOwjYd2UfCcPkqRyjFsr1SvIPmkfvA6Sk/edit?usp=sharing)
+[Link to the slides](https://docs.google.com/presentation/d/1uadweqIF_LBOwjYd2UfCcPkqRyjFsr1SvIPmkfvA6Sk/edit?usp=sharing)
 
 
 ![slide 1](/images/dcp/Blind%20Image%20Deblurring%20Using%20Dark%20Channel%20Prior-026.png)
