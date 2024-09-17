@@ -3,7 +3,7 @@ title: "Habitrix"
 excerpt: "<div style="display: flex; align-items: center;">
 <p>A Flutter application for tracking progress of forming new habits and visualising over defined periods of time, with
 additional features of priority-based task scheduling.</p>
-  <img src="/images/flutter.png.png" alt="Flutter" style="width: 150px; margin-right: 20px;">
+  <img src="/images/flutter.png" alt="Flutter" style="width: 150px; margin-right: 20px;">
 "
 collection: portfolio
 ---
