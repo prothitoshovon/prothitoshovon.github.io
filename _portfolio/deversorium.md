@@ -9,4 +9,4 @@ This web based application offers tailored solutions for hostels similar to the 
 
 [Link to the repository](https://github.com/prothitoshovon/Deversorium)
 
-![Flutter](/images/flutter.png)
+![MERN](/images/mern.png)
