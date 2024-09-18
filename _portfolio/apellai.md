@@ -1,7 +1,7 @@
 ---
 title: "Apellai"
 excerpt: "A subsonic client, built using Kotlin, for storing, filtering, searching music libraries and podcasts in servers, with
-additional options for like/dislike, media controls and server switching.<br> <img src='/images/rsz_kotlin.png'>"
+additional options for like/dislike, media controls and server switching."
 collection: portfolio
 ---
 
