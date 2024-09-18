@@ -10,4 +10,4 @@ Apellai provides a fast and efficient mobile app solution for users with extensi
 
 [Link to the repository](https://github.com/magentagang/apellai-kotlin)
 
-![Flutter](/images/kotlin.png)
+![Kotlin](/images/kotlin.jpg)
