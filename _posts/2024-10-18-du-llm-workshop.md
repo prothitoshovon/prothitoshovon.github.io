@@ -11,7 +11,7 @@ tags:
 
 The Cognitive Agents and Interaction Lab at University of Dhaka arranged a workshop on deep learning and open-source LLMs, where I was one of the presenters and trainers. The contents discussed in the workshop included multilayer perceptrons, neural networks and their implementations in PyTorch, transformer architectures, attention mechanisms, LLM fine-tuning and deployments.
 
-The participants consisted of undergraduate students as well as professionals from both industry and academia, hailing from institutions such as BRAC University, Jagannath University and Independent University, to name a few. Alongside theoretical explanations from presentations, they were offered a hands-on experience on coding relevant materials of the aforementioned topics.
+The participants consisted of undergraduate students as well as professionals from both industry and academia, hailing from institutions such as University of Dhaka, BRAC University, Jagannath University and Independent University, to name a few. Alongside theoretical explanations from presentations, they were offered a hands-on experience on coding relevant materials of the aforementioned topics.
 
 [Workshop Details](https://cognistorm.ai/llm-workshop)
 
