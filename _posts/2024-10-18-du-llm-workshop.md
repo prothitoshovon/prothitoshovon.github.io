@@ -18,5 +18,5 @@ The Cognitive Agents and Interaction Lab at University of Dhaka arranged a works
 [Link to the slides for the 2nd session](https://docs.google.com/presentation/d/1mY3lNsKl2_wA-BXi9u3co8Hwx3VGLj4qzKJ1MEcqV8w/edit?usp=sharing)
 
 
-![crest](/images/LLM%20Workshop/llm-workshop-crest.jpg)
-![certificate](/images/LLM%20Workshop/llm-workshop-certificate.jpg)
+![crest](/images/LLM%20Workshop/rsz_1llm-workshop-crest.jpg)
+![certificate](/images/LLM%20Workshop/rsz_llm-workshop-certificate.jpg)
