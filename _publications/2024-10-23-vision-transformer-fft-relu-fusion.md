@@ -2,7 +2,7 @@
 title: "Vision Transformer and FFT-ReLU Fusion for Advanced Image Deblurring"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-23-vision-transformer-fft-relu-fusion
+permalink: /publication/vision-transformer-fft-relu-fusion
 excerpt: 'In this paper, we utilise the FFT-ReLU prior to enhance relevant frequency components using the Fast Fourier Transform (FFT) while applying ReLU sparsity to suppress noise. Our approach utilizes a Vision Transformer as a pre-processing model to generate a less blurry intermediate image by capturing both local and global features, which is then refined through FFT-ReLU, resulting in a sharp, high-quality output. Our experimental results demonstrate that our method consistently outperforms state-of-the-art image deblurring models, providing sharper and more visually compelling images.'
 date: 2024-09-09
 venue: 'Preprint'
