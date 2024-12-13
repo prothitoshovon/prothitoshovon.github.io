@@ -18,7 +18,7 @@ Welcome to my homepage. I graduated from the [Department of Computer Science and
 
 
 # Research Interests
-My undergraduate research was performed under the supervision of [Dr. Md. Mosaddek Khan](https://mmkhansajeeb.com/), and was based on image deblurring. My research interests lie in several computer vision problems, such as medical image analysis, video analysis, multimodal learning and vision in the wild. I am looking for graduate student opportunities in a field that aligns with my research interests.
+My undergraduate research was performed under the supervision of [Dr. Md. Mosaddek Khan](https://mmkhansajeeb.com/), and was based on image deblurring. My research interests lie in several computer vision problems, such as medical image analysis, video/scene understanding, image generation, multimodal learning and vision in the wild. I am looking for graduate student opportunities in a field that aligns with my research interests.
 
 <!--Getting started
 ======
