@@ -1,0 +1,11 @@
+---
+title: "Deblurring in the Wild: A Real-World Dataset from Smartphone High-Speed Videos"
+collection: publications
+category: conferences
+permalink: /publication/deblurring-real-world-dataset
+excerpt: 'We introduce the largest real-world image deblurring dataset constructed from smartphone slow-motion videos. Using 240 frames captured over one second, we simulate realistic long-exposure blur by averaging frames to produce blurry images, while using the temporally centered frame as the sharp reference. Our dataset contains over 42,000 high-resolution blur-sharp image pairs, making it approximately 10 times larger than widely used datasets, with 8 times the amount of different scenes, including indoor and outdoor environments, with varying object and camera motions. We benchmark multiple state-of-the-art (SOTA) deblurring models on our dataset and observe significant performance degradation, highlighting the complexity and diversity of our benchmark. Our dataset serves as a challenging new benchmark to facilitate robust and generalizable deblurring models.'
+date: 2025-05-11
+venue: 'Under review'
+paperurl: 'https://arxiv.org/pdf/2506.19445'
+---
+This paper introduces a large-scale, real-world dataset for image deblurring, constructed using 240 fps slow-motion videos from consumer smartphones. The authors generate blurry images by averaging frames over time, simulating realistic long-exposure blur, and use the center frame as the sharp ground truth. The resulting dataset includes 42,000+ blur–sharp image pairs featuring high-resolution and diverse content from both indoor and outdoor scenes. As a result, a broad range of camera and object motion patterns are represented in this dataset. The dataset is about 10× larger and more diverse than previous real-world deblurring datasets. The authors benchmark several state-of-the-art (SOTA) deblurring models on this dataset and find that most perform significantly worse compared to synthetic benchmarks, indicating the challenge and complexity of real-world blur. The aim of this dataset is to drive progress toward more robust and generalizable deblurring models.
