@@ -10,7 +10,6 @@ location: "Fall 2024"
 
 
 This course introduces the concepts of the fundamental data structures of computer science, such as 
-
 - arrays (linear and multidimensional)
 - linked lists (singly and doubly) 
 - binary trees

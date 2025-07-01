@@ -11,7 +11,6 @@ location: "Spring 2025"
 
 This is a foundational course for introducing mathematical concepts for building the basics of problem-solving.
 The course discusses
-
 - propositional logic
 - proofs
 - sets
