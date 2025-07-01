@@ -1,5 +1,5 @@
 ---
-title: "CSE221: Algorithms"
+title: "CSE320: Data Communications"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/cse320-data-communications
