@@ -25,7 +25,7 @@ author:
   name             : "Prothito Shovon Majumder"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer, BRAC University.<br>CS Graduate, University of Dhaka."
-  location         : "Bangladesh"
+  location         : # "Bangladesh"
   employer         : # "BRAC University"
   uri              : # URL
   email            : "turnoshovon1999@gmail.com" 
