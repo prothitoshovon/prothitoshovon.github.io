@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/cse422-artificial-intelligence
 venue: "CSE Department, BRAC University"
-date: 2025-02-01
+date: 2026-02-01
 location: "Spring 2026"
 ---
 
