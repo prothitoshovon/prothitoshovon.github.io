@@ -9,7 +9,7 @@ location: "Spring 2026"
 ---
 
 
-This course introduces the concepts of the fundamental data structures of computer science, such as 
+This course introduces the concepts of artificial intelligence, rationality, intelligent agents and their structures, with topics including
 - search strategies
 - constraint satisfaction problem 
 - inference and learning in intelligent systems
